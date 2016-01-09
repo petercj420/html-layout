@@ -1,0 +1,56 @@
+
+html, body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+
+.slide{
+	height: 15%;
+	width: 100%;
+
+}
+#first{
+	background: lightgrey;
+	padding-top: 20px;
+}
+#bbox{
+	height:120px;
+	width: 120px;
+	background: #1E90FF;
+	margin-left: 20px;
+	position: absolute;
+	bottom: 20;
+}
+#second{
+
+	padding-top: 30px;
+	font-size: 30px;
+	font-family: arial;
+	height: 25%;
+	width: 100%;
+	text-align:center;
+	margin: 0-auto;
+
+}
+
+#third{
+	background: #1E90FF;
+}
+#fourth{
+	background: aqua;
+}
+#fith{
+	background: #98FB98;
+}
+#sixth{
+	background: yellow;
+}
+#text{
+	text-align: center;
+	margin: 30px, 30px, 30px, 30px;
+	height: 200px;
+	width: 400px;
+}
